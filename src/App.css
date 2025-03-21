@@ -23,7 +23,7 @@ body{
     background-color:#fff;
 }
 .box{
-    background-image: url("currence.png");
+    background-image: url("../assets/currence.png");
     width: 100%;
     height: 130px;
     background-position: center;
